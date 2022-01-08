@@ -1,7 +1,9 @@
 Hello! 👋 I’m Matthew, code ninja and coffee snob.
 ---
 
-:wrench: I'm open to work, check out my **[LinkedIn]** or **[AngelList]** profile.
+You can find me on:
+- **[LinkedIn]**
+- **[AngelList]**
 
 [LinkedIn]: https://linkedin.com/in/matthew-j-sim
 [AngelList]: https://angel.co/u/matthew-j-sim
