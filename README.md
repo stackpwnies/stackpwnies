@@ -1,4 +1,4 @@
-Hello! 👋 I’m Matthew, code ninja 🥷, coffee snob ☕, and engineering manager 🧑‍🤝‍🧑 at Creator Deck.
+Hello! 👋 I’m Matthew, globetrotting code ninja 🌎🥷, coffee snob ☕ and people leader 🧑‍🤝‍🧑.
 
 I love working with Ruby, Python, and Go, and I'm passionate about AI/ML. I believe in servant leadership, and I'm committed to creating a positive and productive work environment for my teams. I'm always looking for new ways to improve our development process and deliver the best possible products to our customers.
 
